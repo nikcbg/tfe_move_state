@@ -1,0 +1,4 @@
+.terraform/
+terraform.tfstate
+terraform.tfstate.1549614662.backup
+terraform.tfstate.backup
